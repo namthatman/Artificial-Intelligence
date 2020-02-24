@@ -5,3 +5,4 @@ Following the Udemy course, "Artificial Intelligence A-Z™: Learn How To Build 
 Build a virtual Self Driving Car with the brain is from the AI agent using Deep Neural Network and Q-Learning. The car learns the environment itself to come up with the optimal journey path to traverse from the downtown (bottom-right corner) to the airport (top-left corner).
 
     libraries:  pytorch, kivy, numpy, random, os, pyplot, time
+## Doom with Deep Convolutional Learning (om-working)
